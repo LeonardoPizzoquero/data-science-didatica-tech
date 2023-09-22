@@ -1,4 +1,4 @@
-## Curso Didática Tech - Machine Learning e Redes Neurais com Python
+## Curso Didática Tech - Machine Learning e Deep Learning com Python
 
 Nesse repositório estão todos os exercícios realizados nos módulos do curso Didática Tech.
 
