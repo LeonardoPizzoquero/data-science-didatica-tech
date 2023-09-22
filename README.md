@@ -17,3 +17,8 @@ Todas as anotações das aulas foram armazenadas na pasta **"Anotações"**
 - [X] Técnicas de feature selection (Chi2, F-classif, RFE)
 - [X] KFold
 
+- Módulo 2:
+
+Todas as anotações das aulas foram armazenadas na pasta **"Anotações"**
+
+- [X] Substituir dados missing com modelos de regressão
